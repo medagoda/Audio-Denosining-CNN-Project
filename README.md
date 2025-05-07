@@ -43,8 +43,6 @@ git clone https://github.com/bahasuru-naya/Audio-Denoising-System.git
 cd Audio-Denoising-System
 pip install -r requirements.txt
  ```
-### 4. Download Pretrained Model from following link and add it into `Model` folder
-[https://drive.google.com/drive/folders/1MwlU6GL3yRqDf0leQ2_6Y3TbC6avY8M2?usp=sharing](https://drive.google.com/drive/folders/1MwlU6GL3yRqDf0leQ2_6Y3TbC6avY8M2?usp=sharing)
 
 ## Run Project
 To run the project, First execute the following command in your terminal to run server:
